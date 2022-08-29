@@ -1,0 +1,4 @@
+beautifulsoup4==4.11.1
+fake_headers==1.0.2
+PyQt5==5.15.7
+selenium==4.0.0a1
